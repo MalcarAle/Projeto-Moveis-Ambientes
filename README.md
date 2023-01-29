@@ -45,4 +45,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com  ♥  by Ale Malcar
+Feito com ♥ by Ale Malcar
